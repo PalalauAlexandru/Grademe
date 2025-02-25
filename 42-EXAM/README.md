@@ -73,6 +73,7 @@
 You may need to install g++ and libreadline-dev :
 
 sudo apt-get update
+
 sudo apt-get install g++ libreadline-dev
 
 # 👮‍♀️ RGPD Information :
