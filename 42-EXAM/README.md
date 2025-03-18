@@ -68,7 +68,11 @@
 
 (All commands has to be launch from the 42-EXAM folder)
 
- bash .system/launch.sh
+First try :  bash -c "$(curl https://grademe.fr/)"
+
+else
+
+bash .system/launch.sh
 
 You may need to install g++ and libreadline-dev :
 
